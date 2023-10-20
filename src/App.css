@@ -1,0 +1,17 @@
+.App{
+  text-align: center;
+}
+
+.Person{
+  display: inline-block;
+  margin: 10px;
+  border: 1px solid #ccc;
+  padding: 20px;
+  box-shadow: 2px 2px 2px #eee;
+  width: 200px;
+  transition: .3s;
+}
+
+.Person:hover{
+  background-color: #cccccc38;
+}
